@@ -1,4 +1,4 @@
-# PassGen
+# pass-gen
 Generation  
 17-10-2020  
 Program generates password with specified length  
